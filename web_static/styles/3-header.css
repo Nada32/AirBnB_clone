@@ -4,7 +4,7 @@ header {
 	border-bottom: 1px solid #CCCCCC;
 	}
 .logo-header {
-	background-image: url("images/logo.png");
+	background-image: url("https://github.com/Nada32/AirBnB_clone/blob/master/web_static/images/logo.png");
 	background-repeat: no-repeat;
 	background-position: 20px center;
 	padding-left: 20px;
