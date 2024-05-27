@@ -1,0 +1,7 @@
+.container {
+	position: relative;
+	top: 30px;
+	max-width: 1000px;
+	justify-content: center;
+
+}
