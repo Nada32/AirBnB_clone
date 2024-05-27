@@ -1,0 +1,10 @@
+header, footer {
+	width: 100%;
+	text-align: center;
+	position: fixed;
+	left: 0;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	color: #484848;
+	
+	}
